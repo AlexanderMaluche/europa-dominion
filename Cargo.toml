@@ -1,0 +1,12 @@
+[package]
+name = "europa-dominion"
+version = "0.1.0"
+edition = "2021"
+description = "EUROPA DOMINION — Ultra-Realistic European Business Expansion Strategy Simulation Game"
+license = "MIT"
+
+[[bin]]
+name = "europa-dominion"
+path = "src/main.rs"
+
+[dependencies]
